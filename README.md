@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I’m a penultimate Computer Science student at the University of New South Wales, majoring in Artificial Intelligence, with hands-on experience building backend systems, full-stack web applications, and data-driven ML projects.
+
+I enjoy working close to the system level — designing APIs, reasoning about data models, and turning ambiguous requirements into reliable, well-structured solutions.
+
+Before transitioning into tech, I worked as a designer, which shaped how I approach engineering:
+thinking in constraints, iterating deliberately, and building things that are not just correct, but intuitive to use.
+
+Thanks for stopping by — feel free to explore my repos or reach out 😊
+
 <!--
 **jasonwidjajadev/jasonwidjajadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
