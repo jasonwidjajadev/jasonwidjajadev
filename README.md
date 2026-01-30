@@ -7,7 +7,7 @@
 
 
 
-I’m a penultimate Computer Science student at the University of New South Wales, majoring in Artificial Intelligence, with hands-on experience building backend systems, full-stack web applications, and data-driven ML projects.
+I’m a Computer Science student at the University of New South Wales, majoring in Artificial Intelligence, with hands-on experience building backend systems, full-stack web applications, and data-driven ML projects.
 
 I enjoy working close to the system level — designing APIs, reasoning about data models, and turning ambiguous requirements into reliable, well-structured solutions.
 
