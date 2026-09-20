@@ -1,9 +1,8 @@
 ## Hi there 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat-square)](https://jasonwidjaja.com)
 [![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1BTV13QlVm4vrvkgT03oMbBi4VbZJb3YF/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonwidjaja8/)
-
-
 
 
 I’m a Computer Science student at the University of New South Wales, majoring in Artificial Intelligence, with hands-on experience building full-stack web applications, backend systems and data-driven ML projects.
